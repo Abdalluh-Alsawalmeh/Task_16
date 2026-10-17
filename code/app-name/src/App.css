@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  background-color: rgb(19 ,25,33);
+}
+
+.navbar-brand {
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.navbar-actions button {
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.cart{
+  border: 3px solid red;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 9cqh;
+}
